@@ -1,0 +1,3 @@
+﻿  exp3_2.cpp
+C:\Users\86199\source\repos\exp3_2\exp3_2\exp3_2.cpp(68,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  exp3_2.vcxproj -> C:\Users\86199\source\repos\exp3_2\Debug\exp3_2.exe
